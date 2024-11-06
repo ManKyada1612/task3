@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-
-void main() => runApp(MovingSquareApp());
+void main() {
+  runApp( MovingSquareApp());
+}
 
 class MovingSquareApp extends StatefulWidget {
   @override
